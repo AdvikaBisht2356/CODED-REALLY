@@ -1,0 +1,54 @@
+ <style>
+ 
+        body {
+            background-color: rgb(245, 248, 250);
+            
+
+        }
+
+        
+nav{
+    background-color: rgb(11, 172, 158);
+    padding: 20px;
+}
+nav{
+
+    display:flex;
+    gap:30px;
+}
+nav{
+    display:flex;
+    align-items:center;
+}
+nav a{
+
+text-decoration: none;
+
+}
+        .top-button {
+            background-color: rgb(49, 159, 152);
+            color: rgb(255, 255, 255);
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+
+        .top-button:hover {
+            background-color: rgb(38, 132, 126);
+        }
+
+        .info-box {
+            background-color: rgb(207, 141, 197);
+            color: black;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: bold;
+            margin: 8px 0;
+            display: inline-block;
+        }
+        section{
+    min-height: 10vh;
+}
+    </style>
